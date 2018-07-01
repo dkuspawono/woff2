@@ -39,5 +39,5 @@ bool ConvertTTFToWOFF2(const uint8_t *data, size_t length,
                        const WOFF2Params& params);
 
 } // namespace woff2
-
-#endif  // WOFF2_WOFF2_ENC_H_
+y
+#endif   // WOFF2_WOFF2_ENC_H_
